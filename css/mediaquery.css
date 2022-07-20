@@ -247,7 +247,7 @@ Instead, 1rem = 1em = 16px*/
     .btn:link,
     .btn:visited{
         padding:1.6rem 1.6rem;
-        font-size: 1rem;
+        font-size: 1.4rem;
     }
     
     .primary-heading{
