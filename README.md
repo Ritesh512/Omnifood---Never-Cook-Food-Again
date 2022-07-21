@@ -8,4 +8,4 @@ by using an AI-centric approach. Users can use our app to select their diet and 
 weekly meal plan. But we don't stop there. We partner with restaurants and other cooking partners to actually cook and deliver all meals from the generated meal plans,in 
 selected cities. All this will be packed up in a monthly subscription, where users can choose between receiving one or two meals per day, every single day of the month.
 
-<a href="https://ritesh512.github.io/Omnifood---Never-Cook-Food-Again/">##Click here </a>
+## <a href="https://ritesh512.github.io/Omnifood---Never-Cook-Food-Again/">Click here </a>
